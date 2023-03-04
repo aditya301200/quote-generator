@@ -77,7 +77,7 @@ export default function Navbar({check,change}) {
                   onChange={change}
                 />
               }
-              label="MUI switch"
+              label=""
             />
           </FormGroup>
         </Toolbar>
